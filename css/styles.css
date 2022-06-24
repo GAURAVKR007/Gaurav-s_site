@@ -1,0 +1,189 @@
+html {
+  scroll-behavior: smooth;
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.bgimg {
+  width: 97%;
+  height: 800px;
+}
+
+.ColorDiv {
+  background-color: #FFE6E6;
+  padding-top: 50px
+}
+
+.heading1 {
+  position: absolute;
+  left: 130px;
+  top: 200px;
+  font-family: 'Diplomata SC', cursive;
+  font-size: 55px;
+  background: -webkit-linear-gradient(#774360, #980F5A, #8E05C2, #2A0944);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.subheading {
+  position: absolute;
+  left: 200px;
+  top: 250px;
+  font-size: 22px;
+  color: #064663;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Allura', cursive;
+}
+
+.profile-pic {
+  border-radius: 75%;
+}
+
+.hr1 {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #798777;
+  width: 10%;
+  border-width: 5px;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 45px;
+  font-family: 'Tai Heritage Pro', serif;
+  color: #001D6E;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #DAEAF1;
+  padding-top: 20px;
+  position: relative;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+
+}
+
+.middle-container {
+  font-size: 20px;
+}
+
+.cplus {
+  color: #084594;
+}
+
+.Androidtxt {
+  color: #ACB992;
+}
+
+.Wbdv {
+  color: #FC4F4F;
+}
+
+h3 {
+  color: #7897AB;
+}
+
+.contact-me {
+  margin-top: 70px;
+  font-size: 17px;
+  margin-bottom: 15px;
+}
+
+.lfi {
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.foot {
+  background-color: #1A1A40;
+  padding: 20px;
+}
+.bottom-container {
+
+  color: #9AD0EC;
+  padding: 15px 0 15px;
+  text-align: center;
+
+}
+
+.btn {
+  border: 1px solid;
+  cursor: pointer;
+  font-family: 'Tai Heritage Pro', serif;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 0.05rem;
+  border-radius: 8px;
+  padding: 10px 40px 10px 40px;
+  background-image: url(../Images/val2.png);
+  background-size: 250%;
+  background-position: 800%;
+  background-repeat: no-repeat;
+  transition: 0.3s ease-in-out;
+  transition-property: background-position,border,color;
+  margin-bottom: 70px;
+}
+
+.btn:hover {
+  border: 1px solid;
+  color: white;
+  background-position: 1%
+}
+
+.footer-link {
+
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 70px;
+  text-align: center;
+}
+
+.footer-link:hover {
+  color: #DD4A48;
+}
+
+.copyright {
+  font-size: 15px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 150%;
+
+}
+
+.skillphoto1 {
+  float: left;
+  margin-right: 30px;
+  margin-top: 20px;
+}
+
+.Android {
+  float: right;
+  margin-left: 30px;
+  margin-top: 80px;
+}
+
+.web {
+  float: left;
+  margin-right: 30px;
+  margin-top: 40px;
+}
