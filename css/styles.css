@@ -26,7 +26,7 @@ body {
   left: 130px;
   top: 200px;
   font-family: 'Diplomata SC', cursive;
-  font-size: 55px;
+  font-size: 3.75rem;
   background: -webkit-linear-gradient(#774360, #980F5A, #8E05C2, #2A0944);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
