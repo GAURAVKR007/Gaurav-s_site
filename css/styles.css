@@ -33,10 +33,19 @@ body {
 }
 
 
+@media only screen and (min-width: 390px){
+  .heading1{
+    font-size: 3.0rem;
+  }
+  .subheading {
+    font-size: 10px;
+  }
+}
+
 .subheading {
   position: absolute;
   left: 200px;
-  top: 250px;
+  top: 200px;
   font-size: 22px;
   color: #064663;
 }
