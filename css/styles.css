@@ -9,6 +9,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Nunito Sans', sans-serif;
+  background-color: #FFE6E6;
 }
 
 .bgimg {
@@ -17,7 +18,7 @@ body {
 }
 
 .ColorDiv {
-  background-color: #FFE6E6;
+  
   padding-top: 50px
 }
 
